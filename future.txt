@@ -1,0 +1,3 @@
+I'd like to add playlist download options for MP3 and MP4, primarily for math/programming turorials:
+http://pythonhosted.org/Pafy/#pafy-get-playlist-example
+Should be a real simply update!

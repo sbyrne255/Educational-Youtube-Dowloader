@@ -1,0 +1,9 @@
+c:\users\steven\documents\visual studio 2010\Projects\Educational Youtube Saver\Educational Youtube Saver\bin\Debug\Educational Youtube Saver.exe
+c:\users\steven\documents\visual studio 2010\Projects\Educational Youtube Saver\Educational Youtube Saver\bin\Debug\Educational Youtube Saver.pdb
+c:\users\steven\documents\visual studio 2010\Projects\Educational Youtube Saver\Educational Youtube Saver\obj\x86\Debug\Educational_Youtube_Saver.Form1.resources
+c:\users\steven\documents\visual studio 2010\Projects\Educational Youtube Saver\Educational Youtube Saver\obj\x86\Debug\Educational_Youtube_Saver.Properties.Resources.resources
+c:\users\steven\documents\visual studio 2010\Projects\Educational Youtube Saver\Educational Youtube Saver\obj\x86\Debug\Educational Youtube Saver.csproj.GenerateResource.Cache
+c:\users\steven\documents\visual studio 2010\Projects\Educational Youtube Saver\Educational Youtube Saver\obj\x86\Debug\Educational Youtube Saver.exe
+c:\users\steven\documents\visual studio 2010\Projects\Educational Youtube Saver\Educational Youtube Saver\obj\x86\Debug\Educational Youtube Saver.pdb
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\Educational Youtube Saver\Educational Youtube Saver\obj\x86\Debug\Educational Youtube Saver.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\Educational Youtube Saver\Educational Youtube Saver\obj\x86\Debug\Educational_Youtube_Saver.WaitingLoading.resources
